@@ -26,6 +26,8 @@ This repository contains the work and findings from my internship project at **J
 - **Remote Monitoring:** Allows for remote configuration and real-time data access through IoT platforms.
 
 ## Prototype Demonstration
+![image](https://github.com/user-attachments/assets/c7e64826-8ee4-4894-b262-7e6bbc995a5b)
+
 For demonstration purposes, I developed a prototype using:
 - **ESP32 Microcontroller**
 - **Temperature Sensor**
